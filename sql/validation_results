@@ -1,6 +1,6 @@
 # Validation Results
 
-- row_count: XXXX
+- row_count: 3547
 - date range: YYYY-MM-DD ~ YYYY-MM-DD
 - null checks:
   - datetime: 0
