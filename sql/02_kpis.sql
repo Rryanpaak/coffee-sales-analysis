@@ -1,0 +1,1 @@
+-- KPI calculations for coffee sales analysis
