@@ -1,6 +1,6 @@
 # Coffee Sales Analysis
 
-End-to-end data analysis project analyzing coffee sales data using SQL, R, and Power BI visualization.
+Data analysis project analyzing coffee sales data using SQL, R, and Power BI visualization.
 
 ## Project Structure
 
