@@ -1,9 +1,9 @@
 # Validation Results
 
 - row_count: 3547
-- date range: YYYY-MM-DD ~ YYYY-MM-DD
+- date range: 2024-03-01 ~ 2025-03-23
 - null checks:
-  - datetime: 0
+  - date: 0
   - coffee_name: 0
   - money: 0
 - money sanity:
