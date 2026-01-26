@@ -1,0 +1,2 @@
+-- Data validation queries for coffee sales analysis
+-- Check data quality and consistency
