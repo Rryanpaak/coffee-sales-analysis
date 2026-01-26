@@ -1,0 +1,16 @@
+# Validation Results
+
+- row_count: XXXX
+- date range: YYYY-MM-DD ~ YYYY-MM-DD
+- null checks:
+  - datetime: 0
+  - coffee_name: 0
+  - money: 0
+- money sanity:
+  - non_positive: 0
+  - min: X
+  - max: Y
+  - avg: Z
+- duplicates (datetime+coffee_name+money):
+  - found: yes/no
+  - decision: keep/remove (reason)
