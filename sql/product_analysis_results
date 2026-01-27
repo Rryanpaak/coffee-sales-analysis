@@ -1,1 +1,22 @@
+-- Product KPI included the top-selling products, the top-revenue products, and the top-aov.
+Latte	26875.3	757	35.5
+Americano with Milk	24751.12	809	30.59
+Cappuccino	17439.14	486	35.88
+Americano	14650.26	564	25.98
+Hot Chocolate	9933.46	276	35.99
+Cocoa	8521.16	239	35.65
+Cortado	7384.86	287	25.73
+Espresso	2690.28	129	20.85
+
+--Top products by Revenue.
+1. Latte 26875.3
+2. Americano with Milk 24751.12
+3. Cappuccino 17439.14
+4. Americano 14650.26
+5. Hot Chocolate 9933.46
+
+Insight
+- Latte is the highest revenue product with the high aov.
+- Americano with Milk has the highest order volume.
+- Espresso has a low aov compared to other products.
 
