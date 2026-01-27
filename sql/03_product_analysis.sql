@@ -10,7 +10,7 @@ from `coffee_sales`
 group by coffee_name
 order by total_revenue desc;
 
---Using Pareto Analysis, we can find out where it get 80% of revenue.
+--Using Pareto Analysis, we can find out how many products make 80% of revenue.
 WITH product_revenue as(
 	SELECT
 		coffee_name,
