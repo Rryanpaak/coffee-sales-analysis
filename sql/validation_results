@@ -8,9 +8,41 @@
   - money: 0
 - money sanity:
   - non_positive: 0
-  - min: X
-  - max: Y
-  - avg: Z
+  - min: 18.12
+  - max: 38.7
+  - avg: 31.65
 - duplicates (datetime+coffee_name+money):
-  - found: yes/no
-  - decision: keep/remove (reason)
+ - By coffee name 
+    Americano with Milk	809
+    Latte	757
+    Americano	564
+    Cappuccino	486
+    Cortado	287
+    Hot Chocolate	276
+    Cocoa	239
+    Espresso	129
+- By Weekday
+  Tue	572
+  Mon	544
+  Fri	532
+  Thu	510
+  Wed	500
+  Sat	470
+  Sun	419
+- By Time of day
+  Afternoon	1205
+  Morning	1181
+  Night	1161
+- By Month day
+  Mar	494
+  Oct	426
+  Feb	423
+  Sep	344
+  Aug	272
+  Nov	259
+  Dec	259
+  May	241
+  Jul	237
+  Jun	223
+  Jan	201
+  Apr	168
