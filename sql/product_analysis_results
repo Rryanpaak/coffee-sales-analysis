@@ -15,12 +15,12 @@ Espresso	2690.28	129	20.85
 4. Americano 14650.26
 5. Hot Chocolate 9933.46
 
-Insight
+-- Insight
 - Latte is the highest revenue product with the high aov.
 - Americano with Milk has the highest order volume.
 - Espresso has a low aov compared to other products.
 
---Using Pareto analysis
+--Using Pareto analysis, we will see how many products take 80% of total_revenue.
 coffee_name, revenue, cumulative_revenue
 Latte	26875.3	23.94
 Americano with Milk	24751.12	45.99
@@ -32,7 +32,9 @@ Cortado	7384.86	97.6
 Espresso	2690.28	100.0
 
 -- Insight
-The top 5 products which are Latte, Americano with Milk, Cappuccino, Americano, and Hot Chocolate, account for about 83% of total revenue.
+- The top 5 products, which are Latte, Americano with Milk, Cappuccino, Americano, and Hot Chocolate, account for about 83% of total revenue.
+- Quality standardization of core products is essential to maintaining a consistent customer experience and revenue stability.
+- We can make a set menu by combining top 5 selling products with desserts to increase order values.
 
 
 
