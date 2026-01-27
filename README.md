@@ -14,7 +14,14 @@ Contains raw data files for the coffee sales analysis project.
 Contains SQL queries for data analysis:
 - `01_validation.sql` - Data validation queries for checking data quality
 - `02_kpis.sql` - KPI calculations and key metrics
+ - ## KPIs
+  - Revenue: total sales amount (SUM of money)
+  - Orders: number of transactions
+  - AOV (Average Order Value): Revenue / Orders
+    
 - `03_product_analysis.sql` - Product-level analysis and performance metrics
+
+
 
 ### /powerbi
 Contains Power BI dashboard files:
