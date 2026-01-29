@@ -1,5 +1,5 @@
 # Coffee Sales Analysis
-
+This project explores coffee sales performance by analyzing revenue trends, customer ordering behavior and product performance over time and product types.
 Data analysis project analyzing coffee sales data using SQL and Power BI visualization.
 
 ## Project Structure
@@ -8,7 +8,7 @@ This repository contains the following folders:
 
 ### /data
 Contains raw data files for the coffee sales analysis project.
-- `coffee_sales.csv` - Raw coffee sales data (to be added)
+- `coffee_sales.csv` - Raw coffee sales data
 
 ### /sql
 Contains SQL queries for data analysis:
