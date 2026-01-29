@@ -1,6 +1,6 @@
 # Coffee Sales Analysis
 
-Data analysis project analyzing coffee sales data using SQL, R, and Power BI visualization.
+Data analysis project analyzing coffee sales data using SQL and Power BI visualization.
 
 ## Project Structure
 
@@ -25,12 +25,11 @@ Contains SQL queries for data analysis:
 
 ### /powerbi
 Contains Power BI dashboard files:
-- `coffee_sales_dashboard.pbix` - Main Power BI dashboard (to be added)
+- `coffee_sales_dashboard.pbix` - Main Power BI dashboard
 
 ### /screenshots
 Contains screenshots and visualizations from the Power BI dashboard:
-- `dashboard_page1.png` - Dashboard overview (to be added)
-- `dashboard_page2.png` - Detailed metrics view (to be added)
+- `dashboard_page1.png` - Dashboard overview
 
 ## Getting Started
 
@@ -40,9 +39,8 @@ Contains screenshots and visualizations from the Power BI dashboard:
 4. Add dashboard screenshots to `/screenshots/`
 
 ## Technologies Used
-- SQL - Data querying and validation
+- SQL - Data querying and validation, analysis
 - Power BI - Data visualization and dashboarding
-- R/Python - Data manipulation and analysis
 
 ---
 This project demonstrates an end-to-end data analytics workflow.
