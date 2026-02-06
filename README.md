@@ -31,16 +31,7 @@ Contains Power BI dashboard files:
 Contains screenshots and visualizations from the Power BI dashboard:
 - `dashboard_page1.png` - Dashboard overview
 
-## Getting Started
-
-1. Add your coffee sales data to `/data/coffee_sales.csv`
-2. Run SQL queries in `/sql` to validate and analyze the data
-3. Import your Power BI dashboard file to `/powerbi/`
-4. Add dashboard screenshots to `/screenshots/`
-
 ## Technologies Used
 - SQL - Data querying and validation, analysis
 - Power BI - Data visualization and dashboarding
 
----
-This project demonstrates an end-to-end data analytics workflow.
