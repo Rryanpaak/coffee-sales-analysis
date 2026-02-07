@@ -9,6 +9,7 @@ This repository contains the following folders:
 ### /data
 Contains raw data files for the coffee sales analysis project.
 - `coffee_sales.csv` - Raw coffee sales data
+- data source: https://www.kaggle.com/datasets/ihelon/coffee-sales
 
 ### /sql
 Contains SQL queries for data analysis:
